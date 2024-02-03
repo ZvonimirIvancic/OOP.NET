@@ -1,0 +1,3 @@
+cbChampionship:0
+gbLanguage:en-GB
+gbResolution:1280x720
